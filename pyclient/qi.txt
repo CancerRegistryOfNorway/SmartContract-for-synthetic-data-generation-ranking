@@ -1,0 +1,3 @@
+data_utility PCD CRRS CRSR LC SC
+data_privacy AD MDP MDR		
+end

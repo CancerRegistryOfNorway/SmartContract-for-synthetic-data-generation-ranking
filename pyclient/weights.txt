@@ -1,0 +1,12 @@
+category_weight PurposeA --data_utility 0.5 --data_privacy 0.5
+category_weight PurposeB --data_utility 0.5 --data_privacy 0.5
+category_weight PurposeC --data_utility 0.5 --data_privacy 0.5
+category_weight PurposeD --data_utility 0.5 --data_privacy 0.5
+category_weight PurposeE --data_utility 0.5 --data_privacy 0.5
+category_weight PurposeF --data_utility 0.9 --data_privacy 0.1
+category_weight PurposeG --data_utility 0.9 --data_privacy 0.1
+category_weight PurposeH --data_utility 0.1 --data_privacy 0.9
+category_weight PurposeI --data_utility 0.1 --data_privacy 0.9
+category_weight PurposeJ --data_utility 0.5 --data_privacy 0.5		
+end
+

@@ -1,0 +1,9 @@
+regmethod im --pcd 0.9 --lc -3.62 --crrs 0.94 --crsr 1.0 --sc 1.0 --ad 0.325 --mdp 0.497 --mdr 0.97
+regmethod bn --pcd 0.24 --lc -7.47 --crrs 0.98 --crsr 1.0 --sc 0.99 --ad 0.338 --mdp 0.499 --mdr 0.985
+regmethod mpom --pcd 0.03 --lc -10.47 --crrs 1.0 --crsr 1.0 --sc 1.0 --ad 0.350 --mdp 0.499 --mdr 0.99
+regmethod clgp --pcd 0.13 --lc -7.63 --crrs 1.0 --crsr 1.0 --sc 1.0 --ad 0.350 --mdp 0.500 --mdr 0.988
+regmethod mc_medgan --pcd 0.64 --lc -2.12 --crrs 0.86 --crsr 0.75 --sc 0.98 --ad 0.443 --mdp 0.491 --mdr 0.751
+regmethod mice_lr --pcd 0.06 --lc -8.3 --crrs 0.99 --crsr 1.0 --sc 1.0 --ad 0.314 --mdp 0.499 --mdr 0.988
+regmethod mice_lr_desc --pcd 0.04 --lc -6.8 --crrs 0.97 --crsr 1.0 --sc 1.0 --ad 0.323 --mdp 0.500 --mdr 0.991
+regmethod mice_dt --pcd 0.02 --lc -11.25 --crrs 1.01 --crsr 1.0 --sc 0.99 --ad 0.379 --mdp 0.502 --mdr 0.994
+end

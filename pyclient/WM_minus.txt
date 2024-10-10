@@ -1,0 +1,11 @@
+WM_minus PurposeA 
+WM_minus PurposeB  
+WM_minus PurposeC 
+WM_minus PurposeD --AD 0.33 --MDP 0.33 --MDR 0.33 
+WM_minus PurposeE --PCD 0.20 --LC 0.20 --CRRS 0.20 --CRSR 0.20 --SC 0.20
+WM_minus PurposeF --AD 0.33 --MDP 0.33 --MDR 0.33
+WM_minus PurposeG --PCD 0.20 --LC 0.20 --CRRS 0.20 --CRSR 0.20 --SC 0.20
+WM_minus PurposeH --AD 0.33 --MDP 0.33 --MDR 0.33
+WM_minus PurposeI --PCD 0.20 --LC 0.20 --CRRS 0.20 --CRSR 0.20 --SC 0.20
+WM_minus PurposeJ --PCD 0.125 --LC 0.125 --CRRS 0.125 --CRSR 0.125 --SC 0.125 --AD 0.125 --MDP 0.125 --MDR 0.125
+end

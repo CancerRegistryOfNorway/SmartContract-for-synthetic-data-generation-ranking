@@ -1,0 +1,14 @@
+compute PurposeA im bn mpom clgp mc_medgan mice_lr mice_lr_desc mice_dt
+compute PurposeB im bn mpom clgp mc_medgan mice_lr mice_lr_desc mice_dt
+compute PurposeC im bn mpom clgp mc_medgan mice_lr mice_lr_desc mice_dt
+compute PurposeD im bn mpom clgp mc_medgan mice_lr mice_lr_desc mice_dt
+compute PurposeE im bn mpom clgp mc_medgan mice_lr mice_lr_desc mice_dt
+compute PurposeF im bn mpom clgp mc_medgan mice_lr mice_lr_desc mice_dt
+compute PurposeG im bn mpom clgp mc_medgan mice_lr mice_lr_desc mice_dt
+compute PurposeH im bn mpom clgp mc_medgan mice_lr mice_lr_desc mice_dt
+compute PurposeI im bn mpom clgp mc_medgan mice_lr mice_lr_desc mice_dt
+compute PurposeJ im bn mpom clgp mc_medgan mice_lr mice_lr_desc mice_dt
+end
+
+
+				

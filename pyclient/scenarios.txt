@@ -1,0 +1,10 @@
+regscenario DEF-equal --pcd 1 --lc 1 --crrs 1 --crsr 1 --sc 1 --ad 1 --mdp 1 --mdr 1
+regscenario DEF-utility_priority --pcd 1.5 --lc 1.5 --crrs 1.5 --crsr 1.5 --sc 1.5 --ad 0.5 --mdp 0.5 --mdr 0.5
+regscenario DEF-privacy_priority --pcd 0.5 --lc 0.5 --crrs 0.5 --crsr 0.5 --sc 0.5 --ad 1.5 --mdp 1.5 --mdr 1.5
+regscenario EDAAP-equal --pcd 1 --lc 1 --crrs 1 --crsr 1 --sc 1 --ad 1 --mdp 0.5 --mdr 0.5
+regscenario EDAAP-utility_priority --pcd 1.5 --lc 1.5 --crrs 1.5 --crsr 1.5 --sc 1.5 --ad 0.5 --mdp 0.25 --mdr 0.25
+regscenario EDAAP-privacy_priority --pcd 0.5 --lc 0.5 --crrs 0.5 --crsr 0.5 --sc 0.5 --ad 1.5 --mdp 0.75 --mdr 0.75
+regscenario EDMAP-equal --pcd 1 --lc 1 --crrs 1 --crsr 1 --sc 1 --ad 0.5 --mdp 1 --mdr 1
+regscenario EDMAP-utility_priority --pcd 1.5 --lc 1.5 --crrs 1.5 --crsr 1.5 --sc 1.5 --ad 0.25 --mdp 0.5 --mdr 0.5
+regscenario EDMAP-privacy_priority --pcd 0.5 --lc 0.5 --crrs 0.5 --crsr 0.5 --sc 0.5 --ad 0.75 --mdp 1.5 --mdr 1.5
+end				
